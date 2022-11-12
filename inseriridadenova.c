@@ -2,9 +2,10 @@
 #include <stdlib.h>//Biblioteca para alocar memória, gerar numeros aleatórios, converter variáveis, etc//
 
 int main(){
-	
-	int idade, idade_nova;
-	
+		
+	int nome, idade, idade_nova;
+
+
 	printf("Insira a sua idade:\n");
 	scanf("%d", &idade);
 	

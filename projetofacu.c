@@ -6,7 +6,7 @@ char nome[50];
 
  char endereco[60];
 
- char telefone[14];
+
 
  printf("digite o nome:\n");
 
